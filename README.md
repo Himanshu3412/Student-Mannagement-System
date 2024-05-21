@@ -13,6 +13,9 @@ This is a simple Java program designed to manage student records, calculate grad
 1. Run the Main class, which serves as the entry point of the program.
 2. Follow the on-screen instructions to navigate through different options.
 3. Enter the required information as prompted to add students or view details.
+
+![image](https://github.com/Himanshu3412/Student-Mannagement-System/assets/163979859/712bb944-0e5c-417c-b9c5-61c9232e8a11)
+
    
 ## Additional Notes
 - The program utilizes an object-oriented approach with a Student class to represent individual student records.
